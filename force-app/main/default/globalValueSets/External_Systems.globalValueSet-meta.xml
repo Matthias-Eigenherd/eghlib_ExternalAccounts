@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>SAP ISU</fullName>
+        <default>false</default>
+        <label>SAP ISU</label>
+    </customValue>
+    <description>Part of EGH__External_Accounts</description>
+    <masterLabel>External Systems</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>
